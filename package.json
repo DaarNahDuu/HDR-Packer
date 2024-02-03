@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "path": "^0.12.7"
+  },
+  "name": "hdrpacker",
+  "version": "1.0.0",
+  "description": "Hdr Packer (convert dxt to hdr and src files)",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hdr",
+    "packer",
+    "hdr",
+    "packer",
+    "dxt",
+    "to",
+    "hdr",
+    "src",
+    "creat",
+    "hdr",
+    "src",
+    "file"
+  ],
+  "author": "DaarNahDuu",
+  "license": "MIT"
+}
